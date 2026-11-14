@@ -8,3 +8,6 @@
 [submodule "fixes"]
 	path = fixes
 	url = https://github.com/yo5uke/fixes
+[submodule "rok"]
+	path = rok
+	url = https://github.com/cran/rok
